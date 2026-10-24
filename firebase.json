@@ -1,0 +1,8 @@
+{
+  "firestore": [
+    {
+      "database": "ai-studio-android-remix-42f8b318-6a6f-41d4-b6ca-de900dbecd64",
+      "rules": "firestore.rules"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Remix مدير الديون الذكي",
+  "description": "تطبيق احترافي لإدارة الديون والعملاء وتسجيل الحوالات المالية وإرسال رسائل التذكير التلقائية عبر SMS بواجهة عربية متكاملة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
